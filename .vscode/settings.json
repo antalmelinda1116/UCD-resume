@@ -20,7 +20,7 @@
       "**/core.python*": true
    },
    "files.autoSave": "off",
-   "workbench.colorTheme": "light",
+   "workbench.colorTheme": "dark",
    "editor.defaultFormatter": "HookyQR.beautify",
    "editor.formatOnSave": true
 }
